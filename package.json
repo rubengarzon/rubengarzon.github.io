@@ -1,0 +1,16 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rubén Garzón Zafra",
+  "license": "ISC",
+  "dependencies": {
+    "darkmode-js": "^1.5.7",
+    "material-design-icons": "^3.0.1",
+    "normalize.css": "^8.0.1"
+  }
+}
